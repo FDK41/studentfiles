@@ -1,0 +1,8 @@
+def main():
+    gebruikersnaam = input("Wat is je gebruikersnaam? ")
+    print("Goedemiddag ", gebruikersnaam)
+    Leeftijd = input('mag ik vragen hoe oud je bent? ')
+    print("aha, ", Leeftijd,"jaar dus")
+    
+
+main()
